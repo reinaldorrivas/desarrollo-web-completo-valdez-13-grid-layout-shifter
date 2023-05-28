@@ -63,11 +63,11 @@ p {
     grid-auto-flow: column;
   }
 
-  .contenido-principal .entrada-blog:first-child {
+  .contenido-principal .entrada-blog-uno {
     grid-column: 2 / 3;
   }
 
-  .contenido-principal .entrada-blog:last-child {
+  .contenido-principal .entrada-blog-dos {
     grid-column: 1 / 2;
   }
 
